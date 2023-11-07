@@ -1,0 +1,45 @@
+body{
+    background-color: darkgreen;
+    width: 128vh;
+    margin: 20px 300px;
+}
+.container{
+    border: 2px solid #fff;
+    height: 50vh;
+    width: 150vh;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
+.class{
+    border: 2px solid #fff;
+    height: 28vh;
+    width: 40vh;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    color: #fff;
+    margin-top: 70px;
+}
+button{
+    color: black;
+    border: 3px solid #fff;
+    width: 7vh;
+    height: 5vh;
+    display: flex;
+    align-self: center;
+}
+button:hover{
+    background-color: darkgreen;
+}
+

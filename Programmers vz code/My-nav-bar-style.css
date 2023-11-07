@@ -1,0 +1,29 @@
+.container{
+    background-color: antiquewhite;
+    height: 70px;
+    margin: 0px auto;
+}
+.logo{
+    position: absolute;
+    }
+img{
+    height: 60px;
+    width: 60px;
+    margin-top: 1px;
+    margin-left: 20px;
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+li{
+    float: right;
+    display: flex;
+    gap: 1px;
+    margin-top: 30px;     
+}
+a{
+    text-decoration: none;
+    margin-right: 90px;
+    text-align: center;
+
+}

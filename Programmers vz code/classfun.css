@@ -1,0 +1,129 @@
+.container{
+    margin: 0px 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.class{
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.txt1{
+    font-size: 55px;    
+}
+p{
+    width: 95%;
+    font-size: 25px;
+}
+.nav{
+    width: 50%;
+}
+.main1{
+    display: flex;
+    height: 60vh;
+}
+.img1{
+    height: 65vh;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 50PX;
+}
+.button1{
+    color: #fff;
+    height: 5vh;
+    width: 8rem;
+    background-color: green;
+    border-radius: 20px;
+    margin-top: 0.5rem;
+    margin-right: 29rem;
+}
+.txt2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon1{
+    height: 25px;
+    width: 25px;
+    color: green;
+}
+.main3{
+  display: flex;
+  gap: 230px;
+
+}
+.icons{
+    width: 30vh;
+}
+.main4{
+    background-color: darkgreen;
+    border-radius: 10px;
+    margin: 100px 0px;
+}
+.main41{
+    width: 550px;
+    margin-right: 200px;
+    float: right;
+    font-size: 17px;
+    color: #fff;
+    line-height: 2;
+}
+.img2{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 20px 20px;
+}
+.main42{
+    filter: blur(0.5px);
+}
+.main11{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: baseline;
+    align-items: baseline;
+}
+.main51{
+    border-radius: 1rem;
+    width: 32%;
+    line-height: 0.5;
+    box-shadow: 1px 2px 3px 1px black;
+    height: 80vh;
+}
+img{
+    width: 373px;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+h5{
+    font-size: 1rem;
+}
+.txt4{
+    margin: 50px 0px;
+}
+.main13{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: baseline;
+    justify-content: baseline;
+}
+h3{
+    text-align: center;
+}
+.B1{
+    padding: 0px 40px;
+}
+.main6{
+    display: flex;
+    gap: 50px;
+}
+button{
+    color: #fff;
+    float: right;
+    margin-top: -40px;
+    background-color: darkgreen;
+    height: 4vh;
+    border-radius: 20px;
+}
+.main7{
+    margin: 50px 0px;
+}  
+

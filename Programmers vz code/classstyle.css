@@ -1,0 +1,18 @@
+.div1{
+    position: fixed;
+    border: 2px solid black;
+    height: 10vh;
+    width: 100vh;
+    display: flex;
+    gap: 50px;
+    margin: 350px 400px;
+}
+a{
+    height: 9vh;
+    width: 9vh;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    border-radius: 50%;background-color: aqua;
+}
